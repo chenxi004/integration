@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jboss:javassist:3.6.ga">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/jboss/javassist/3.6.ga/javassist-3.6.ga.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/jboss/javassist/3.6.ga/javassist-3.6.ga-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/jboss/javassist/3.6.ga/javassist-3.6.ga-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="test">
+	<!-- 注意事项： -->
+	<!-- 1：如果parameterType为简单类型（基本类型+String类），#{}中的参数名称可以任意 -->
+	<!-- 2：如果parameterType为POJO类型，#{}中的参数名称必须和POJO中的属性名称一致 -->
+	<!-- 3：如果resultType为POJO类型，SELECT中的列名和POJO中的属性名称一致 -->
+	<select id="findUserById" parameterType="int"
+		resultType="com.kkb.mybatis.phase01.po.User">
+		SELECT * FROM user WHERE id = #{id}
+	</select>
+</mapper>

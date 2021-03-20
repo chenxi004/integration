@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/kaikeba/architect/Spring/spring-custom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/architect/mybatis/kkb-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-demo-18" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-demo-18/src/main/java/com/kkb/mybatis/test/MybatisV3.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-framework-18" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-framework-18/src/main/java/com/kkb/core/executor/BaseExecutor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-framework-18/src/main/java/com/kkb/core/executor/SimpleExecutor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-framework-18/src/main/java/com/kkb/core/handler/DefaultParameterHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-framework-18/src/main/java/com/kkb/core/handler/PrepareStatementHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-framework-18/src/main/java/com/kkb/core/handler/RoutingStatementHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-framework-18/src/main/java/com/kkb/core/sqlsession/DefaultSqlSession.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/bigdata/sparkSql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kaikeba/bigdata/sparkSql/src/main/resources/data" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/vip-concurrent/spring/spring-anno" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/vip-concurrent/spring/spring-anno/src/main/java/com/enjoy/cap6/config/JamesImportBeanDefinitionRegistrar.java" charset="GB2312" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

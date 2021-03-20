@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-anno" />
+        <module name="sparkSql" />
+        <module name="kafka_operate2" />
+        <module name="mybatis-framework-18" />
+        <module name="streaming_operate1" />
+        <module name="kkb-mybatis" />
+        <module name="spring-custom" />
+        <module name="mybatis-demo-18" />
+        <module name="SparkSql" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kafka_operate" target="1.8" />
+      <module name="kafka_operate2" target="1.8" />
+      <module name="kkb-mybatis" target="1.5" />
+      <module name="mybatis-demo-18" target="1.8" />
+      <module name="mybatis-framework-18" target="7" />
+      <module name="scalaPro" target="1.5" />
+      <module name="SparkSql" target="1.5" />
+      <module name="sparkSql" target="1.5" />
+      <module name="spring-anno" target="7" />
+      <module name="spring-custom" target="1.8" />
+      <module name="streaming_operate1" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

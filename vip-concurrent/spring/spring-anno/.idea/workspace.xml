@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="spring-anno" />
+      <module name="myproject-idea" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fccd3ab9-8633-48d5-bbda-8270008ffd99" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven-Repository" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dLzUVKXtiacgmGSdyTg5sroVeP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../concurrent/.project" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.Cap5Test">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cap2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-anno" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Cap2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cap5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-anno" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Cap5Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cap6Test.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-anno" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Cap6Test" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Cap5Test" />
+        <item itemvalue="JUnit.Cap2Test" />
+        <item itemvalue="JUnit.Cap6Test.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fccd3ab9-8633-48d5-bbda-8270008ffd99" name="Default" comment="" />
+      <created>1528683286025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528683286025</updated>
+      <workItem from="1528683291607" duration="1280000" />
+      <workItem from="1528686243497" duration="600000" />
+      <workItem from="1528690775647" duration="40000" />
+      <workItem from="1528783105484" duration="2228000" />
+      <workItem from="1592219183474" duration="1447000" />
+      <workItem from="1592220708388" duration="3094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="107" key="FileChooserDialogImpl" timestamp="1592220748603">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="107" key="FileChooserDialogImpl/0.0.1536.834/0.-1080.1536.834@0.0.1536.834" timestamp="1592220748603" />
+    <state width="1493" height="79" key="GridCell.Tab.0.bottom" timestamp="1592236054980">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/0.-1080.1536.834@0.0.1536.834" timestamp="1592221163216" />
+    <state width="1493" height="79" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592236054980" />
+    <state width="1493" height="79" key="GridCell.Tab.0.center" timestamp="1592236054978">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834/0.-1080.1536.834@0.0.1536.834" timestamp="1592221163216" />
+    <state width="1493" height="79" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592236054978" />
+    <state width="1493" height="79" key="GridCell.Tab.0.left" timestamp="1592236054977">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834/0.-1080.1536.834@0.0.1536.834" timestamp="1592221163216" />
+    <state width="1493" height="79" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592236054977" />
+    <state width="1493" height="79" key="GridCell.Tab.0.right" timestamp="1592236054978">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834/0.-1080.1536.834@0.0.1536.834" timestamp="1592221163216" />
+    <state width="1493" height="79" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592236054978" />
+    <state x="408" y="115" key="NewModule_or_Project.wizard" timestamp="1592219782568">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="408" y="115" key="NewModule_or_Project.wizard/0.0.1536.834/0.-1080.1536.834@0.0.1536.834" timestamp="1592219782568" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1592220750276">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834/0.-1080.1536.834@0.0.1536.834" timestamp="1592220750276" />
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1592220711796">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834/0.-1080.1536.834@0.0.1536.834" timestamp="1592220711796" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1592220044938">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/0.-1080.1536.834@0.0.1536.834" timestamp="1592220044938" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Cap3Test.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

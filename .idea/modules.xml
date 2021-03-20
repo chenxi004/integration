@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaikeba/bigdata/SparkSql.iml" filepath="$PROJECT_DIR$/kaikeba/bigdata/SparkSql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip-concurrent/concurrent/src/concurrent.iml" filepath="$PROJECT_DIR$/vip-concurrent/concurrent/src/concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaikeba/bigdata/kafka_operate2/kafka_operate2.iml" filepath="$PROJECT_DIR$/kaikeba/bigdata/kafka_operate2/kafka_operate2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaikeba/architect/mybatis/kkb-mybatis/kkb-mybatis.iml" filepath="$PROJECT_DIR$/kaikeba/architect/mybatis/kkb-mybatis/kkb-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-demo-18/mybatis-demo-18.iml" filepath="$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-demo-18/mybatis-demo-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-framework-18/mybatis-framework-18.iml" filepath="$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-framework-18/mybatis-framework-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip-concurrent/mybatis-generator.iml" filepath="$PROJECT_DIR$/vip-concurrent/mybatis-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaikeba/bigdata/scalaPro/scalaPro.iml" filepath="$PROJECT_DIR$/kaikeba/bigdata/scalaPro/scalaPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaikeba/bigdata/sparkPro/sparkPro.iml" filepath="$PROJECT_DIR$/kaikeba/bigdata/sparkPro/sparkPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaikeba/bigdata/sparkSql/sparkSql.iml" filepath="$PROJECT_DIR$/kaikeba/bigdata/sparkSql/sparkSql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip-concurrent/spring/spring-anno/spring-anno.iml" filepath="$PROJECT_DIR$/vip-concurrent/spring/spring-anno/spring-anno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaikeba/architect/Spring/spring-custom/spring-custom.iml" filepath="$PROJECT_DIR$/kaikeba/architect/Spring/spring-custom/spring-custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaikeba/architect/Spring/spring-demo/spring-demo/spring-demo.iml" filepath="$PROJECT_DIR$/kaikeba/architect/Spring/spring-demo/spring-demo/spring-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kaikeba/bigdata/streaming_operate1/streaming_operate1.iml" filepath="$PROJECT_DIR$/kaikeba/bigdata/streaming_operate1/streaming_operate1.iml" />
+    </modules>
+  </component>
+</project>

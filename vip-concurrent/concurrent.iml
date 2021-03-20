@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://D:/XiangXue/vipLesson/ConcurrentCode/code/src/vip-concurrent/lib/commons-lang-2.6.jar" />
+    <libelement value="file://D:/XiangXue/vipLesson/ConcurrentCode/code/src/vip-concurrent/lib/commons-lang-2.6-javadoc.jar" />
+    <libelement value="file://D:/XiangXue/vipLesson/ConcurrentCode/code/src/vip-concurrent/lib/commons-lang-2.6-sources.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/concurrent/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/concurrent/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/concurrent">
+      <sourceFolder url="file://$MODULE_DIR$/concurrent/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.6.jar">
+        <CLASSES>
+          <root url="file://D:/XiangXue/vipLesson/ConcurrentCode/code/src/vip-concurrent/lib/commons-lang-2.6.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.6-javadoc.jar">
+        <CLASSES>
+          <root url="file://D:/XiangXue/vipLesson/ConcurrentCode/code/src/vip-concurrent/lib/commons-lang-2.6-javadoc.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.6-sources.jar">
+        <CLASSES>
+          <root url="file://D:/XiangXue/vipLesson/ConcurrentCode/code/src/vip-concurrent/lib/commons-lang-2.6-sources.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

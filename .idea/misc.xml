@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/vip-concurrent/spring/spring-anno/pom.xml" />
+        <option value="D:/BaiduNetdiskDownload/04-开课吧/高级架构师18期/Mybatis01-Mybatis架构分析及手写/mybatis-demo-18/pom.xml" />
+        <option value="$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-demo-18/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-framework-18/pom.xml" />
+        <option value="$PROJECT_DIR$/kaikeba/architect/Spring/spring-custom/pom.xml" />
+        <option value="$PROJECT_DIR$/kaikeba/architect/mybatis/mybatis-framework-18/pom.xml" />
+        <option value="$PROJECT_DIR$/kaikeba/architect/mybatis/kkb-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/kaikeba/bigdata/pom.xml" />
+        <option value="$PROJECT_DIR$/kaikeba/bigdata/sparkSql/pom.xml" />
+        <option value="$PROJECT_DIR$/kaikeba/bigdata/kafkaDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/kaikeba/bigdata/kafka_operate2/pom.xml" />
+        <option value="$PROJECT_DIR$/kaikeba/bigdata/streaming_operate1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

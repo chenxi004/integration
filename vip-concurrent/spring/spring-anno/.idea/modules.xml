@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../concurrent.iml" filepath="$PROJECT_DIR$/../../concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../myproject-idea/myproject-idea.iml" filepath="$PROJECT_DIR$/../../../myproject-idea/myproject-idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-anno.iml" filepath="$PROJECT_DIR$/spring-anno.iml" />
+    </modules>
+  </component>
+</project>

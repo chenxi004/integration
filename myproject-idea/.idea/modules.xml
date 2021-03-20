@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/BaiduNetdiskDownload/享学课堂【Mybatis】训练营3月/mybatis源码与脑图/mybatis-3-master/mybatis.iml" filepath="D:/BaiduNetdiskDownload/享学课堂【Mybatis】训练营3月/mybatis源码与脑图/mybatis-3-master/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myproject-idea.iml" filepath="$PROJECT_DIR$/myproject-idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vip-concurrent/vip-concurrent.iml" filepath="$PROJECT_DIR$/../vip-concurrent/vip-concurrent.iml" />
+    </modules>
+  </component>
+</project>
